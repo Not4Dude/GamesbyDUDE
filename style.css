@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 150%;
+    background-color: #2f3140;
+}
+
+.menu ul{
+    display: inline-flex;
+    margin: 50px;
+}
+
+.menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color: #b2b1b1;
+    cursor: pointer;
+}
+
+.logo1 img{
+    width: 75px;
+    margin-top: -7px;
+    margin-right: 48px;
+}
+
+.active{
+    color: #73289f !important;
+}
+
+.lieninv{
+    text-decoration: none;
+    color: #b2b1b1;
+}
+
+.banner{
+    width: 80%;
+    height: 70%;
+    top : 50%;
+    left : 130px;
+    position: absolute;
+    color: #b2b1b1;
+}
+
+.app-text{
+    width: 50%;
+    float: left;
+}
+
+.app-text h1{
+    font-size: 75px;
+    width: 640px;
+    position: relative;
+    margin-left: 40px;
+}
+
+.app-text p{
+    width: 650px;
+    font-size: 22px;
+    margin-left: 40px;
+    line-height: 20px;
+    color: #57575b;
+}
+
+.picture{
+    width: 75%;
+    float: right;
+}
+
+.picture img{
+    width: 70%;
+    float: right;
+    margin-right: -50px;
+    margin-top: -500px;
+}
+
+.active2{
+    color: #73289f !important;
+}
+
+.texte {
+    margin-left: 15;
+    color:#b2b1b1;
+}
+
+.texte h1{
+    font-size: 40px;
+}
+
+.texte p{
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.texte h2{
+    font-size: 25;
+    margin-top: 30px;
+}
+
+.texte ul{
+    margin-left: 40px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.texte a{
+    text-decoration: none;
+    color: #b2b1b1;
+}
+
+.texte h3{
+    padding: auto;
+    text-align: center;
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 62, 128);
+    font-size: 40pt;
+}
