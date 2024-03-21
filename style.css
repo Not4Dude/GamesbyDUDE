@@ -385,6 +385,18 @@ figcaption{
     margin-top: -35px;
 }
 
+.captionbox17{
+    width : 1500px;
+    height : 60px;
+    margin-top: -240px;
+}
+
+.captionbox18{
+    width : 1500px;
+    height : 60px;
+    margin-top: -315px;
+}
+
 .caption{
     display: inline-flex;
     font-style: italic;
